@@ -20,6 +20,14 @@
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
 
+        <!-- Particles effect -->
+        <script src="js/particles.min.js"></script>
+        <script>
+            particlesJS.load('particles-js', 'js/particles.json', function() {
+        console.log('callback - particles.js config loaded');
+          });
+        </script>
+
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -46,11 +54,15 @@
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
-                <div class="masthead-heading text">Rodrigo Dal Ben</div>
-                <div class="masthead-subheading"> Psychology - Open Science - Data Science</div>
-                <!--
-                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
+              <div class="masthead-heading text">Rodrigo Dal Ben</div>
+              <div class="masthead-subheading"> Psychology - Open Science - Data Science</div>
+              <!--
+              <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
               -->
+
+              <!--Particles canvas-->
+              <div id="particles-js"></div>
+              
             </div>
         </header>
 
