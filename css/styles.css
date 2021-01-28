@@ -5449,13 +5449,14 @@ a.close.disabled {
   position: relative;
   display: flex;
   flex-direction: column;
-  width: 100%;
-  pointer-events: auto;
+  width: 100vw;
+  height: 100vh;
+  /*pointer-events: auto;*/
   background-color: #fff;
   background-clip: padding-box;
   border: 1px solid rgba(0, 0, 0, 0.2);
-  border-radius: 0.3rem;
-  outline: 0;
+  /*border-radius: 0.3rem;*/
+  /*outline: 0;*/
 }
 
 .modal-backdrop {
@@ -10304,8 +10305,8 @@ header.masthead .masthead-heading {
   position: absolute;
   top: 1.5rem;
   right: 1.5rem;
-  width: 3rem;
-  height: 3rem;
+  width: 2rem;
+  height: 2rem;
   cursor: pointer;
   background-color: transparent;
 }
