@@ -59,16 +59,16 @@ $("div[id^='portfolioModal']").each(function(){
 
   var currentModal = $(this);
 
-  //click next
-  currentModal.find('.btn-prev').click(function(){
+//click next
+currentModal.find('.btn-prev').click(function(){
     currentModal.modal('hide');
     currentModal.closest("div[id^='portfolioModal']").nextAll("div[id^='portfolioModal']").first().modal('show');
-  });
+});
 
-  //click prev
-  currentModal.find('.btn-next').click(function(){
-    currentModal.modal('hide');
-    currentModal.closest("div[id^='portfolioModal']").prevAll("div[id^='portfolioModal']").first().modal('show');
-  });
+//click prev
+currentModal.find('.btn-next').click(function(){
+  currentModal.modal('hide');
+  currentModal.closest("div[id^='portfolioModal']").prevAll("div[id^='portfolioModal']").first().modal('show');
+});
 
 });
