@@ -55,20 +55,40 @@
     $(window).scroll(navbarCollapse);
 })(jQuery); // End of use strict
 
-$("div[id^='portfolioModal']").each(function(){
+// Previous-Next Research modals
+$("div[id^='researchModal']").each(function(){
 
   var currentModal = $(this);
 
 //click next
-currentModal.find('.btn-prev').click(function(){
+currentModal.find('.btn-next').click(function(){
     currentModal.modal('hide');
-    currentModal.closest("div[id^='portfolioModal']").nextAll("div[id^='portfolioModal']").first().modal('show');
+    currentModal.closest("div[id^='researchModal']").nextAll("div[id^='researchModal']").first().modal('show');
 });
 
 //click prev
-currentModal.find('.btn-next').click(function(){
+currentModal.find('.btn-prev').click(function(){
   currentModal.modal('hide');
-  currentModal.closest("div[id^='portfolioModal']").prevAll("div[id^='portfolioModal']").first().modal('show');
+  currentModal.closest("div[id^='researchModal']").prevAll("div[id^='researchModal']").first().modal('show');
+});
+
+});
+
+// Previous-Next Teaching modals
+$("div[id^='teachingModal']").each(function(){
+
+  var currentModal = $(this);
+
+//click next
+currentModal.find('.btn-next').click(function(){
+    currentModal.modal('hide');
+    currentModal.closest("div[id^='teachingModal']").nextAll("div[id^='teachingModal']").first().modal('show');
+});
+
+//click prev
+currentModal.find('.btn-prev').click(function(){
+  currentModal.modal('hide');
+  currentModal.closest("div[id^='teachingModal']").prevAll("div[id^='teachingModal']").first().modal('show');
 });
 
 });
