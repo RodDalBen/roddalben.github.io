@@ -5378,7 +5378,6 @@ a.close.disabled {
 .modal-open {
   overflow: hidden;
 }
-
 .modal-open .modal {
   overflow-x: hidden;
   overflow-y: auto;
@@ -5512,6 +5511,8 @@ a.close.disabled {
   position: relative;
   flex: 1 1 auto;
   padding: 1rem;
+  max-height: calc(100vh - 150px);
+  overflow-y: auto;
 }
 
 .modal-footer {
