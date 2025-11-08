@@ -52,3 +52,27 @@ main {
   font-size: 0.875rem !important;
   padding: 0.375rem 0.75rem !important;
 }
+
+/* Force Solana layout: separate rows for header and content */
+@media (min-width: 992px) {
+  /* Break the header (title + image) into separate row */
+  .about-entity .about-sep {
+    display: block !important;
+    width: 100% !important;
+    clear: both !important;
+  }
+  
+  /* Profile image should float right in header row */
+  .about-entity img {
+    display: block !important;
+    float: none !important;
+  }
+  
+  /* Content below in its own row */
+  .about-entity .about-contents {
+    display: block !important;
+    width: 150% !important;
+    clear: both !important;
+    margin-top: 2rem !important;
+  }
+}
