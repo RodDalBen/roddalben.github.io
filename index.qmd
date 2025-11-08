@@ -5,11 +5,11 @@ about:
   template: solana
   links:
     - icon: linkedin
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/rodrigo-dal-ben-phd/
     - icon: github
-      href: https://github.com
-    - text: "{{< iconify google-scholar >}}"
-      href: https://scholar.google.com
+      href: https://github.com/RodDalBen
+    - text: "{{< iconify simple-icons:researchgate >}}"
+      href: https://www.researchgate.net/profile/Rodrigo-Dal-Ben
     - text: Resume
       href: https://twitter.com
     - text: Academic CV
@@ -18,23 +18,28 @@ about:
 
 ## About Me
 
-Write your bio here. This is the landing page for your website.
+I turn complex health data into actionable insights that improve patient outcomes and advance therapies. 
+With 10+ years of experience in quantitative research, I specialize in patient-centred outcomes research—understanding how diseases and treatments impact patients, caregivers, and healthcare systems. My work bridges clinical research, health economics, and real-world evidence, translating data into strategic decisions that matter for therapy development and population health. I am passionate about leveraging data science to drive innovation in healthcare.  
 
-You can include information about:
-
-- Your background and experience
-- Your research interests ttdakfjapsdojfpadokfpaokfpasdokfpaodkfpoadksfpaodkfpoakdsfpoadskfp
-- Your current workfajdsofijadofijadsofijdasofijsadofijdsaoifjdsaoifjadosifjodaifjodsifjodisajfodasijfoasdijfoadsijfodaisjfodsijfoaidsjfodisjfoaidjsfoaidjsfoidajsfoaidjfoiadjsfoidjsfoidajfoidjafoiadj
-- Anything else you'd like to share
+*Technical Toolkit*:  
+R | Python | SQL | Git/GitHub | Machine Learning | Statistical Inference | Data Visualisation | Reproducible Research Workflows  
+  
 
 ## Education
 
-**Institution Name** | Location
+**Federal University of São Carlos** (UFSCar) & **University of Tenessee, Knoxville** (UTK)
 
-Ph.D. in Subject | Year - Year
+Ph.D. in Psychology | 2016 - 2020  
+
+**HarvardX**
+
+Professional Certificate in Data Science | 2021 - 2022
 
 ## Experience
 
-**Position Title** | Organization | Year - Year
+**Senior Research Analyst** | University of Calgary | 2024 - Present
 
-Brief description of your role and accomplishments.
+**Data Scientist** | Bee Touch | 2023 - 2025
+
+**Assistant Professor** | Ambrose University | 2022 - 2024
+
