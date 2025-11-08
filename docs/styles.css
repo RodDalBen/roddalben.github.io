@@ -62,10 +62,16 @@ main {
     clear: both !important;
   }
   
-  /* Profile image should float right in header row */
+  /* Profile image should float right in header row - bring closer to header */
   .about-entity img {
     display: block !important;
     float: none !important;
+    margin-top: 0 !important;
+  }
+  
+  /* Reduce spacing in the header area */
+  .about-entity .about-sep.row {
+    margin-top: 0 !important;
   }
   
   /* Content below in its own row */
