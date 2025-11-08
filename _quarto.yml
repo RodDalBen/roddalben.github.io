@@ -1,19 +1,23 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "!cv/*.Rmd"
+    - "!cv/*.html"
 
 website:
   title: "R. Dal Ben"
   navbar:
     left:
-      - text: ""
-#        href: index.qmd
-#      - text: "Portfolio"
-#        href: portfolio/index.qmd
-#      - text: "Publications"
-#        href: publications/index.qmd
-#      - text: "CV"
-#        href: cv/index.qmd
+      - text: "About"
+        href: index.qmd
+      - text: "Portfolio"
+        href: portfolio/index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
   search: false  # Hidden for now, can be enabled later when site grows
 
 format:

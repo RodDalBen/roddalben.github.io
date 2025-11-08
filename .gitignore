@@ -7,3 +7,10 @@ backup
 /.quarto/
 
 **/*.quarto_ipynb
+
+# CV/Resume - ignore source but keep PDF
+cv/*.Rmd
+cv/*.html
+cv/ds_resume_files/
+cv/resume_files/
+# cv/*.pdf  # Uncomment this line if you want to keep PDF private too

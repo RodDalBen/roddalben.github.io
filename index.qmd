@@ -16,9 +16,9 @@ about:
     - text: Resume
       href: https://twitter.com
       target: _blank
-    - text: Academic CV
-      href: https://twitter.com
-      target: _blank
+#    - text: Academic CV
+#      href: https://twitter.com
+#      target: _blank
 ---
 
 ## About Me
