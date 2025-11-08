@@ -1,2 +1,5 @@
 # ignore all system files
-**.DS_Store*
+.DS_Store*
+
+# ignore backup
+backup
