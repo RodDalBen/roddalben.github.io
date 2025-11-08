@@ -6,14 +6,19 @@ about:
   links:
     - icon: linkedin
       href: https://www.linkedin.com/in/rodrigo-dal-ben-phd/
+      target: _blank
     - icon: github
       href: https://github.com/RodDalBen
+      target: _blank
     - text: "{{< iconify simple-icons:researchgate >}}"
       href: https://www.researchgate.net/profile/Rodrigo-Dal-Ben
+      target: _blank
     - text: Resume
       href: https://twitter.com
+      target: _blank
     - text: Academic CV
       href: https://twitter.com
+      target: _blank
 ---
 
 ## About Me
