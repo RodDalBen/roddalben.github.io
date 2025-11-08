@@ -1,0 +1,18 @@
+---
+title: "Portfolio"
+---
+
+## My Work
+
+This section showcases my projects and professional work in data science, health outcomes research, and analytics.
+
+### Featured Projects
+
+#### Project 1: [Project Title]
+Brief description of the project, technologies used, and impact.
+
+#### Project 2: [Project Title]
+Brief description of the project, technologies used, and impact.
+
+#### Project 3: [Project Title]
+Brief description of the project, technologies used, and impact.

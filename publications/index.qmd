@@ -1,0 +1,21 @@
+---
+title: "Publications"
+---
+
+## Research & Publications
+
+### Peer-Reviewed Articles
+
+**Year** | Author(s) | Title | Journal | DOI/Link
+
+---
+
+### Conference Presentations
+
+**Year** | Title | Conference | Location
+
+---
+
+### Working Papers
+
+**Year** | Title | Status
