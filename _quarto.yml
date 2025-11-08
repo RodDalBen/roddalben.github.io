@@ -3,11 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "Your Website"
+  title: "R. Dal Ben"
   navbar:
     left:
-      - text: "Home"
+      - text: "About"
         href: index.qmd
+  search: false  # Hidden for now, can be enabled later when site grows
 
 format:
   html:
