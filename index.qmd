@@ -4,12 +4,16 @@ image: images/profile.jpg
 about:
   template: solana
   links:
-    - icon: twitter
-      href: https://twitter.com
     - icon: linkedin
       href: https://linkedin.com
     - icon: github
       href: https://github.com
+    - text: "{{< iconify google-scholar >}}"
+      href: https://scholar.google.com
+    - text: Resume
+      href: https://twitter.com
+    - text: Academic CV
+      href: https://twitter.com
 ---
 
 ## About Me
