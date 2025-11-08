@@ -1,0 +1,7 @@
+/* Force text wrapping to respect Solana template layout */
+.about-entity .about-contents * {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  hyphens: auto;
+}
