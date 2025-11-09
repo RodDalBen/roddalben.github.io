@@ -17,7 +17,7 @@ website:
       - text: "Publications"
         href: publications/index.qmd
       - text: "CV"
-        href: cv/index.qmd
+        href: cv/resume.pdf
   search: false  # Hidden for now, can be enabled later when site grows
 
 format:

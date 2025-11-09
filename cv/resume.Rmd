@@ -1,0 +1,176 @@
+---
+title: "Rodrigo Dal Ben's resume"
+author: Rodrigo Dal Ben
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css:
+      - override.css # override main css 
+      - resume # template
+   # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> dalbenwork@gmail.com
+- <i class="fa fa-github"></i> [github.com/RodDalBen](https://github.com/RodDalBen)
+- <i class="fa fa-globe"></i> [roddalben.github.io](https://roddalben.github.io/)
+
+<i class="fa fa-code"></i> R, Python, SQL {#skills}
+--------------------------------------------------------------------------------
+
+I am comfortable working with R, Python, and SQL for data analysis. 
+I also use Markdown regularly for reproducible workflows and Shiny for interactive reporting. 
+
+<i class="fa fa-code-branch"></i> Git, CI/CD {#skills}
+--------------------------------------------------------------------------------
+
+I use git, GitHub, GitLab, and CI/CD workflows on most data analysis projects.
+
+
+<i class="fa fa-chart-pie"></i> Data analysis, modelling {#skills}
+--------------------------------------------------------------------------------
+
+I am comfortable wrangling large data sets, creating effective visualizations, and programming statistical and ML models.
+
+{#skills}
+--------------------------------------------------------------------------------
+
+<i class="fa fa-chart-line"></i> Impact {#skills}
+--------------------------------------------------------------------------------
+
+- 18 peer-reviewed research reports in scientific journals.
+- 60+ presentations at conferences.
+- 300+ research methods and statistics students.
+- $420k+ across 9 public & private fellowships.
+
+
+
+R. Dal Ben - `r Sys.Date()`
+
+
+Main
+================================================================================
+
+Rodrigo Dal Ben {#title}
+--------------------------------------------------------------------------------
+
+### Data scientist, quantitative researcher, and educator
+
+Employment History {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Senior Research Analyst
+
+Cumming School of Medicine, University of Calgary
+
+AB, Canada
+
+2024 -
+
+- Focus on Health Economics data
+- Develop sustainable data management practices
+- Develop reproducible analytic pipelines
+- Report to multinational research teams
+
+### Data Scientist (on-call)
+
+Bee Touch - Workforce Mental Health
+
+Remote
+
+2023 -
+
+- Develop metrics for mental health data collection
+- Data wrangling and visualization
+- Develop statistical and machine learning models
+- Report to stakeholders and scientific community
+
+### Assistant Professor
+
+Ambrose University
+
+AB, Canada
+
+2023 - 2024
+
+- Teaching, mentoring, and researching
+- Courses in Applied Statistics, Research Methods, Developmental Science
+- Research software engineering
+- Grant and report writing, and publishing scientific research
+
+### Postdoctoral Fellow
+
+Ambrose University
+
+AB, Canada
+
+2022 - 2023 
+
+- Research software engineering
+- Project management (finance, mentoring, leadership)
+- Curriculum development and delivery: applied statistics, research methods
+
+
+### Horizon Postdoctoral Fellow
+
+Concordia University
+
+QC, Canada
+
+2020 - 2021
+
+-	Advanced experimental designs in infant research
+- Data wrangling, visualization, modelling
+-	Leadership in international scientific consortium, [ManyBabies](https://manybabies.github.io/)
+
+### International Postdoctoral Research Associate
+
+Concordia University
+
+Remote
+
+2020
+
+- Code interactive [ManyBabies dashboard](https://manybabies.shinyapps.io/shiny_mb_map/)
+-	Major update of the [ManyBabies website](https://manybabies.github.io/)
+  
+
+Certificates {data-icon=stamp data-concise=true}
+--------------------------------------------------------------------------------
+
+### Professional certificate in Data Science
+
+Harvard University, edX
+
+Remote
+
+2022
+
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Ph.D. in Psychology
+
+UFSCar & University of Tennessee
+
+Brazil & USA
+
+2020
+
+### M.A. in Psychology
+
+UFSCar
+
+Brazil
+
+2016
