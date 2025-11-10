@@ -26,5 +26,54 @@
     "title": "R. Dal Ben",
     "section": "Experience",
     "text": "Experience\nSenior Research Analyst | University of Calgary | 2024 - Present\nData Scientist | Bee Touch | 2023 - 2025\nAssistant Professor | Ambrose University | 2022 - 2024"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Year | Author(s) | Title | Journal | DOI/Link\n\n\n\n\nYear | Title | Conference | Location\n\n\n\n\nYear | Title | Status"
+  },
+  {
+    "objectID": "publications/index.html#research-publications",
+    "href": "publications/index.html#research-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Year | Author(s) | Title | Journal | DOI/Link\n\n\n\n\nYear | Title | Conference | Location\n\n\n\n\nYear | Title | Status"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "View or download my full professional resume:\n\n  Download Resume (PDF)"
+  },
+  {
+    "objectID": "cv/index.html#professional-resume",
+    "href": "cv/index.html#professional-resume",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "View or download my full professional resume:\n\n  Download Resume (PDF)"
+  },
+  {
+    "objectID": "cv/index.html#quick-overview",
+    "href": "cv/index.html#quick-overview",
+    "title": "Curriculum Vitae",
+    "section": "Quick Overview",
+    "text": "Quick Overview\nCurrent Position: Senior Research Analyst | University of Calgary | 2024 - Present\nEducation: - Ph.D. in Psychology | UFSCar & University of Tennessee | 2020 - Professional Certificate in Data Science | HarvardX | 2022\nTechnical Skills:\nR | Python | SQL | Git/GitHub | Machine Learning | Statistical Inference | Data Visualisation | Reproducible Research Workflows\nResearch Impact: - 18+ peer-reviewed publications - 60+ conference presentations - $420k+ in fellowships and grants\n\nFor a complete list of publications, see the Publications section."
+  },
+  {
+    "objectID": "portfolio/index.html",
+    "href": "portfolio/index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "This section showcases my projects and professional work in data science, health outcomes research, and analytics.\n\n\n\n\nBrief description of the project, technologies used, and impact.\n\n\n\nBrief description of the project, technologies used, and impact.\n\n\n\nBrief description of the project, technologies used, and impact."
+  },
+  {
+    "objectID": "portfolio/index.html#my-work",
+    "href": "portfolio/index.html#my-work",
+    "title": "Portfolio",
+    "section": "",
+    "text": "This section showcases my projects and professional work in data science, health outcomes research, and analytics.\n\n\n\n\nBrief description of the project, technologies used, and impact.\n\n\n\nBrief description of the project, technologies used, and impact.\n\n\n\nBrief description of the project, technologies used, and impact."
   }
 ]
