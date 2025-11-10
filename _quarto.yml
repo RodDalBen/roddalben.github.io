@@ -10,14 +10,14 @@ website:
   title: "R. Dal Ben"
   navbar:
     left:
-      - text: "About"
-        href: index.qmd
-      - text: "Portfolio"
-        href: portfolio/index.qmd
-      - text: "Publications"
-        href: publications/index.qmd
-      - text: "CV"
-        href: cv/resume.pdf
+      - text: ""
+      #  href: index.qmd
+      #- text: "Portfolio"
+      #  href: portfolio/index.qmd
+      #- text: "Publications"
+      #  href: publications/index.qmd
+      #- text: "CV"
+      #  href: cv/resume.pdf
   search: false  # Hidden for now, can be enabled later when site grows
 
 format:

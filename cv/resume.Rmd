@@ -26,19 +26,17 @@ Contact {#contact}
 <i class="fa fa-code"></i> R, Python, SQL {#skills}
 --------------------------------------------------------------------------------
 
-I am comfortable working with R, Python, and SQL for data analysis. 
-I also use Markdown regularly for reproducible workflows and Shiny for interactive reporting. 
+Proficient in R, Python, and SQL for data science applications. Experienced with Markdown and Shiny for reproducible research.
 
 <i class="fa fa-code-branch"></i> Git, CI/CD {#skills}
 --------------------------------------------------------------------------------
 
-I use git, GitHub, GitLab, and CI/CD workflows on most data analysis projects.
-
+Experienced with version control systems (Git, GitHub, GitLab) and continuous integration/continuous deployment (CI/CD) workflows.
 
 <i class="fa fa-chart-pie"></i> Data analysis, modelling {#skills}
 --------------------------------------------------------------------------------
 
-I am comfortable wrangling large data sets, creating effective visualizations, and programming statistical and ML models.
+Skilled in statistical and machine learning modelling. Proficient in creating publication-quality visualizations and deriving actionable insights from complex datasets.
 
 {#skills}
 --------------------------------------------------------------------------------
@@ -46,12 +44,10 @@ I am comfortable wrangling large data sets, creating effective visualizations, a
 <i class="fa fa-chart-line"></i> Impact {#skills}
 --------------------------------------------------------------------------------
 
-- 18 peer-reviewed research reports in scientific journals.
-- 60+ presentations at conferences.
-- 300+ research methods and statistics students.
-- $420k+ across 9 public & private fellowships.
-
-
+- 18 peer-reviewed publications
+- 60+ scientific presentations
+- 200+ students trained in research methods and statistics
+- $430,000+ on research funding
 
 R. Dal Ben - `r Sys.Date()`
 
@@ -62,7 +58,7 @@ Main
 Rodrigo Dal Ben {#title}
 --------------------------------------------------------------------------------
 
-### Data scientist, quantitative researcher, and educator
+### Data Science | Patient-Centred Outcomes research | Real-World Evidence 
 
 Employment History {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -75,23 +71,24 @@ AB, Canada
 
 2024 -
 
-- Focus on Health Economics data
-- Develop sustainable data management practices
-- Develop reproducible analytic pipelines
-- Report to multinational research teams
+- Focus on Patient-Reported Outcomes Research
+- Health Economics RWD from multinational consortia
+- Develop reproducible polyglot analytic pipelines 
+- Develop automated and reproducible statistical reporting 
+- Implement best practices on scalable data management
 
-### Data Scientist (on-call)
+### Data Scientist
 
 Bee Touch - Workforce Mental Health
 
 Remote
 
-2023 -
+2023 - 2025
 
-- Develop metrics for mental health data collection
-- Data wrangling and visualization
-- Develop statistical and machine learning models
-- Report to stakeholders and scientific community
+- Develop metrics from RWE on mental health  
+- Develop statistical and ML models based on RWD  
+- Develop reproducible data storytelling  
+- Report to industry stakeholders & scientific community
 
 ### Assistant Professor
 
@@ -99,25 +96,12 @@ Ambrose University
 
 AB, Canada
 
-2023 - 2024
+2022 - 2025
 
-- Teaching, mentoring, and researching
-- Courses in Applied Statistics, Research Methods, Developmental Science
-- Research software engineering
-- Grant and report writing, and publishing scientific research
-
-### Postdoctoral Fellow
-
-Ambrose University
-
-AB, Canada
-
-2022 - 2023 
-
-- Research software engineering
-- Project management (finance, mentoring, leadership)
-- Curriculum development and delivery: applied statistics, research methods
-
+- Teach Applied Statistics, Research Methods, Developmental Science
+- Develop open-source scientific software
+- Mentor students on advanced research skills 
+- Collaborate on big-team multinational consortia  
 
 ### Horizon Postdoctoral Fellow
 
@@ -127,26 +111,24 @@ QC, Canada
 
 2020 - 2021
 
--	Advanced experimental designs in infant research
-- Data wrangling, visualization, modelling
--	Leadership in international scientific consortium, [ManyBabies](https://manybabies.github.io/)
-
-### International Postdoctoral Research Associate
-
-Concordia University
-
-Remote
-
-2020
-
-- Code interactive [ManyBabies dashboard](https://manybabies.shinyapps.io/shiny_mb_map/)
--	Major update of the [ManyBabies website](https://manybabies.github.io/)
+-	Implement Open Science best practices to infant research
+- Develop reproducible data analysis pipeline for eye-tracking data using advanced statistical methods
+- Develop open-source scientific software
+- Participate on big-team science  
   
 
 Certificates {data-icon=stamp data-concise=true}
 --------------------------------------------------------------------------------
 
-### Professional certificate in Data Science
+### Specialization, AI in Healthcare
+
+Stanford University, edX
+
+Remote
+
+2025 -
+
+### Professional certificate, Data Science
 
 Harvard University, edX
 
@@ -155,22 +137,14 @@ Remote
 2022
 
 
-
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ### Ph.D. in Psychology
 
-UFSCar & University of Tennessee
+Federal University of Sao Carlos & University of Tennessee
 
 Brazil & USA
 
 2020
-
-### M.A. in Psychology
-
-UFSCar
-
-Brazil
-
-2016
+   

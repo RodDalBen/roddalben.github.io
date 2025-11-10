@@ -24,15 +24,6 @@ With 10+ years of experience in quantitative research, I specialize in patient-c
 
 *Technical Toolkit*:  
 R | Python | SQL | Git/GitHub | Machine Learning | Statistical Inference | Data Visualisation | Reproducible Research Workflows  
-  
-
-## Education
-
-**Federal University of São Carlos** (UFSCar) & **University of Tenessee, Knoxville** (UTK) | Ph.D. in Psychology | 2016 - 2020  
-
-**HarvardX** | Professional Certificate - Data Science | 2021 - 2022  
-
-**Stanford** | Specialization - AI in Healthcare | 2025 - Present
 
 ## Experience
 
@@ -41,4 +32,12 @@ R | Python | SQL | Git/GitHub | Machine Learning | Statistical Inference | Data 
 **Data Scientist** | Bee Touch | 2023 - 2025
 
 **Assistant Professor** | Ambrose University | 2022 - 2024
+  
+## Education
+
+**Federal University of São Carlos** (UFSCar) & **University of Tenessee, Knoxville** (UTK) | Ph.D. in Psychology | 2016 - 2020  
+
+**HarvardX** | Professional Certificate - Data Science | 2021 - 2022  
+
+**Stanford** | Specialization - AI in Healthcare | 2025 - Present
 
